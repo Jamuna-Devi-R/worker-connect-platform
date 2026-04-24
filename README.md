@@ -28,6 +28,4 @@ Developer
 **Jamuna Devi R**
 MCA Graduate 
 Passionate about using technology to solve real-world problems and improve livelihoods.
-**Jamuna Devi R**
-MCA Graduate | Assistant Professor
-Passionate about using technology to solve real-world problems and improve livelihoods.
+
